@@ -1,16 +1,9 @@
-# smartreg
+void function 
+()
+{
+  //;console
+  //;  .log( 'index.js' )
 
-
-Lightweight JavaScript (ES6) regular expression compiler using String templates
-
-## Credits
-
-This is my adaptation of a smart [script](https://github.com/shannonmoeller/regx) by __Shannon Moeller__
-(with my own coding style!!!)
-
-
-## Usage
-```
   const rex_re =
     REX_o
       .new__re( 'g' )
@@ -31,4 +24,4 @@ This is my adaptation of a smart [script](https://github.com/shannonmoeller/regx
             `
         )
     )
-```
+}()
