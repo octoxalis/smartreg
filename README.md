@@ -6,7 +6,7 @@ Lightweight JavaScript (ES6) regular expression compiler using String templates
 ## Credits
 
 This is my adaptation of a smart [script](https://github.com/shannonmoeller/regx) by __Shannon Moeller__
-(with my own coding style!!!)
+(with my own _ala Python_ coding style!!!)
 
 
 ## Usage
